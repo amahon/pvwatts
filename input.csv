@@ -1,0 +1,3 @@
+id,name,system_capacity,module_type,losses,array_type,tilt,azimuth,lat,lon,dataset
+0,one,1000,1,14,0,30,180,42.011397,-74.463958,tmy3
+1,two,1000,1,14,0,30,180,43.787568,-75.473649,tmy3
